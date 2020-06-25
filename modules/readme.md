@@ -1,0 +1,1 @@
+#This is the placeholder for terraform modules. The Shawbrook bank internal Azure Cloud IaC infra modules and the externals Azure Cloud IaC modules will be copied by Shawbrook Cloud Engineering team as per the Project requirement.
